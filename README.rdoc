@@ -1,0 +1,22 @@
+#Steno Writer 15#
+
+Steno Writer is a complimentary transcription software for Plover, an open-source stenographic keyboard interpretor for computers. This program is free and open-sourced under the GNU GPL v3.
+```
+How to use the software:
+1 Make sure start.py is able to be executed as a program on your system.
+2 Right-click an audio file (not all of them work, mostly because of improper formatting, you can usually run them through a transcoder and they work fine).
+3 Select open with and navigate to start.py
+
+```
+
+Start.py will generate a .txt file with the same name, and in the same directory as your file.
+
+```
+
+Controls:
+
+- R-R: Saves the file and goes to a new line.
+- UP: Play/pause
+- Down: Timestamp
+- Left: Go back three seconds
+- Right: Go Forward three seconds
